@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name = "Sign2Text"
+include ':openCVLibrary3413'
